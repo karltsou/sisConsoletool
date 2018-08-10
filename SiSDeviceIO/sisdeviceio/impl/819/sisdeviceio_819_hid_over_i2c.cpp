@@ -47,7 +47,7 @@
 
 #include <errno.h>
 
-#define OUTPUT_IGNORE 4
+#define OUTPUT_IGNORE 0
 
 //HEADER_LENGTH is the byte count before Length field
 #define BEFORE_LENGTH_FIELD_BYTES 2

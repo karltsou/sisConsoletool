@@ -8,6 +8,9 @@ Requirement
         * SDK
         * NDK
         * eclipse (optional)
+    4. Yocto SDK
+        downlaod and install Yocto SDK
+        https://drive.google.com/file/d/1tu3uZDmJ5V4szkXpgja05D6zrZ-gqPg0/view?usp=sharing
 
 Compilation
 ---
